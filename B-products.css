@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta lang="en-US">
+    <meta charset="UTF-8">
+    <meta name="keywords" content="BEAUTYPRODUCTS, BEAUTYPRODUCTS.htmL">
+    <meta name="description" content="India largest beauty shop you can
+    purchase any beauty products with our websites">
+    <meta name="author" content=" beautyproducts.htmL">
+    <meta name="viewport" content=" width= device-width,initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link href="https://cdn.jsdelivr.net/gh/hung1001/font-awesome-pro@4cac1a6/css/all.css" rel="stylesheet" type="text/css" />
+<title>
+    BEAUTYPRODUCTS
+</title>  
+<link rel="stylesheet" href="style2.css">  
+</head>
+
+<!--Start nav coding-->
+<body>
+    <nav>
+        <h1 id="domain_name">Welcome to my shop</h1>
+
+        <table id="menu" align="center" cellspacing="10">
+            <tr>
+                <td id="nav-item"><a href="beautyproducts.html">Home</a></td>
+                <td id="nav-item"><a href="B-products.html">Products</a></td>
+                <td id="nav-item"><a href="beauty contact.html">Contact</a></td>
+                <td id="nav-item"><a href="beauty logo.html">logo</a></td>
+                <td id="nav-item"><a href="beauty login.html">Login</a></td>
+            </tr> 
+        </table>
+    </nav>
+           
+    <!--end nav coding-->
+    <!--Start section coding-->
+
+    <section id="products-section">
+       
+        <div id="Brand">
+            <center>
+            <b>
+            <h1 id="Brand-img"> [ Choose You Brand  ]</h1>
+            </b>
+            </center>
+
+            <img src="photo/a.1.jpeg" alt="A" id="Brand-heading"/>
+            <img src="photo/a.2.jpeg" alt="A" id="Brand-heading"/>
+            <img src="photo/a.3.jpeg" alt="C" id="Brand-heading"/>
+            <img src="photo/a.4.jpeg" alt="D" id="Brand-heading"/>  
+            <img src="photo/a.5.jpeg" alt="A" id="Brand-heading"/>
+            <img src="photo/a.6.jpeg" alt="C" id="Brand-heading"/>
+            <img src="photo/a.7.jpeg" alt="D" id="Brand-heading"/>
+            <img src="photo/a.8.jpeg" alt="D" id="Brand-heading"/>
+            <img src="photo/a.9.jpeg" alt="D" id="Brand-heading"/>
+            <img src="photo/a.10.jpeg" alt="D" id="Brand-heading"/>
+            
+            
+            
+        </div>
+
+        <form>
+            <input type="search" name="search" id="search" placeholder="search your Brand here">
+        </form>
+    </div> 
+
+    <div id="beauty-products">
+
+      <h1 id="zest">[  Zest Products  ]</h1>
+        
+     
+      <div id="zest-products-pic"> <img src="photo/x51.jfif" width="100%" height="210px">
+        <p id="products-name">zest</p> 
+        <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i>499</p>
+        <p id="buy"> <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+      
+      </div>
+      <div id="zest-products-pic"> <img src="photo/x50.jpg" width="100%" height="210px">
+        <p id="products-name">zest</p> 
+        <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 449</p>
+        <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+      </div>
+      <div id="zest-products-pic"> <img src="photo/x47.png" width="100%" height="210px">
+        <p id="products-name">zest</p> 
+        <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 639</p>
+        <p id="buy">  <i class="fas fa-shopping-cart"></i>  Buy Now!</p>
+      </div>
+      <div id="zest-products-pic"> <img src="photo/x46.jpg" width="100%" height="210px">
+        <p id="products-name">zest</p> 
+        <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 579</p>
+        <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+      </div>
+      <div id="zest-products-pic"> <img src="photo/x47.png" width="100%" height="210px">
+        <p id="products-name">zest</p> 
+        <p id="products-pirce">Price :  <i class="fas fa-rupee-sign"></i> 809</p>
+        <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+      </div>
+      <div id="zest-products-pic"> <img src="photo/x48.jfif" width="100%" height="210px">
+        <p id="products-name">zest</p> 
+        <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 501</p>
+        <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+      </div>
+      <div id="zest-products-pic"> <img src="photo/x49.jpg" width="100%" height="210px">
+        <p id="products-name">zest</p> 
+        <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 529</p>
+        <p id="buy"> <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+      </div>
+      <div id="zest-products-pic"> <img src="photo/x50.jpg" width="100%" height="210px">
+        <p id="products-name">zest</p> 
+        <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 829</p>
+        <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+      </div>
+
+
+    </div>
+
+    <div id="dove-products">
+
+
+        <h1 id="dove">[  dove Products  ]</h1>
+          
+       
+        <div id="dove-products-pic"> <img src="photo/x2.avif" width="100%" height="210px">
+          <p id="products-name">dove</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 69</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+          
+        </div>
+        <div id="dove-products-pic"> <img src="photo/x3.webp" width="100%" height="210px">
+          <p id="products-name">dove</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 69</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="dove-products-pic"> <img src="photo/x4.jpg" width="100%" height="210px"> 
+          <p id="products-name">dove</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 39</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="dove-products-pic"> <img src="photo/x5.jpg" width="100%" height="210px">
+          <p id="products-name">dove</p> 
+          <p id="products-pirce">Price :  <i class="fas fa-rupee-sign"></i>77</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="dove-products-pic"> <img src="photo/x6.webp" width="100%" height="210px">
+          <p id="products-name">dove</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 99</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="dove-products-pic"> <img src="photo/x7.jpg" width="100%" height="210px">
+          <p id="products-name">dove</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 81</p>
+          <p id="buy"> <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="dove-products-pic"> <img src="photo/x8.jpg" width="100%" height="210px">
+          <p id="products-name">dove</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 89</p>
+          <p id="buy"> <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="dove-products-pic"> <img src="photo/x1.png" width="100%" height="210px">
+          <p id="products-name">dove</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 86</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+  
+  
+      </div>
+    
+      
+      <div id="lux-products">
+        <h1 id="lux">[  lux Products  ]</h1>
+          
+       
+        <div id="lux-products-pic"> <img src="photo/aaa.avif" width="100%" height="210px">
+          <p id="products-name">Lux</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 9</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="lux-products-pic"> <img src="photo/x23.webp" width="100%" height="210px">
+          <p id="products-name">Lux</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 19</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="lux-products-pic"> <img src="photo/x36.jpeg" width="100%" height="210px">
+          <p id="products-name">Lux</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 49</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="lux-products-pic"> <img src="photo/x5.jpg" width="100%" height="210px">
+          <p id="products-name">Lux</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 71</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="lux-products-pic"> <img src="photo/x18.png" width="100%" height="210px">
+          <p id="products-name">Lux</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 89</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="lux-products-pic"> <img src="photo/x15.png" width="100%" height="210px">
+          <p id="products-name">Lux</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 39</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="lux-products-pic"> <img src="photo/x11.png" width="100%" height="210px">
+          <p id="products-name">Lux</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 59</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="lux-products-pic"> <img src="photo/x51.jfif" width="100%" height="210px">
+          <p id="products-name">Lux</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 99</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+  
+  
+      </div>
+    
+      
+      <div id="surf-products">
+        <h1 id="surf">[  Surf-excal Products  ]</h1>
+          
+       
+        <div id="surf-products-pic"> <img src="photo/x34.webp" width="100%" height="210px">
+          <p id="products-name">Surf-excal</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 119</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="surf-products-pic"> <img src="photo/x35.webp" width="100%" height="210px">
+          <p id="products-name">Surf-excal</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 189</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>  
+        </div>
+        <div id="surf-products-pic"> <img src="photo/x36.jpeg" width="100%" height="210px">
+          <p id="products-name">Surf-excal</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 199</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div> 
+        <div id="surf-products-pic"> <img src="photo/x37.jfif" width="100%" height="210px">
+          <p id="products-name">Surf-excal</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 319</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="surf-products-pic"> <img src="photo/x38.webp" width="100%" height="210px">
+          <p id="products-name">Surf-excal</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 229</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p></div>
+        <div id="surf-products-pic"> <img src="photo/x39.webp" width="100%" height="210px">
+          <p id="products-name">Surf-excal</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 419</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="surf-products-pic"> <img src="photo/x40.avif" width="100%" height="210px">
+          <p id="products-name">Surf-excal</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 309</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="surf-products-pic"> <img src="photo/x50.jpg" width="100%" height="210px">
+          <p id="products-name">Surf-excal</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 427</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+  
+  
+      </div>
+    
+      
+      <div id="laybuy-products">
+        <h1 id="laybuy">[  Laybuy Products  ]</h1>
+          
+       
+        <div id="laybuy-products-pic"> <img src="photo/x1.png" width="100%" height="210px">
+          <p id="products-name">Laybuy</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 109</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="laybuy-products-pic"> <img src="photo/x5.jpg" width="100%" height="210px">
+          <p id="products-name">Laybuy</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 169</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="laybuy-products-pic"> <img src="photo/x10.avif" width="100%" height="210px">
+          <p id="products-name">Laybuy</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 89</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="laybuy-products-pic"> <img src="photo/x15.png" width="100%" height="210px">
+          <p id="products-name">Laybuy</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 19</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="laybuy-products-pic"> <img src="photo/x48.jfif" width="100%" height="210px">
+          <p id="products-name">Laybuy</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 109</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p></div>
+        <div id="laybuy-products-pic"> <img src="photo/x34.webp" width="100%" height="210px">
+          <p id="products-name">Laybuy</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 179</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="laybuy-products-pic"> <img src="photo/x39.webp" width="100%" height="210px">
+          <p id="products-name">Laybuy</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 129</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="laybuy-products-pic"> <img src="photo/x44.jpg" width="100%" height="210px">
+          <p id="products-name">Laybuy</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 101</p>
+          <p id="buy"> <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+  
+  
+      </div>
+    
+      
+      <div id="amica-products">
+        <h1 id="amica">[  Amica Products  ]</h1>
+          
+       
+        <div id="amica-products-pic"> <img src="photo/x29.jfif" width="100%" height="210px">
+          <p id="products-name">Amica</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 107</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="amica-products-pic"> <img src="photo/x30.jfif" width="100%" height="210px">
+          <p id="products-name">Amica</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 121</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="amica-products-pic"> <img src="photo/x31.webp" width="100%" height="210px">
+          <p id="products-name">Amica</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 107</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="amica-products-pic"> <img src="photo/xx1.jpg" width="100%" height="210px">
+          <p id="products-name">Amica</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 166</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="amica-products-pic"> <img src="photo/xx3.jpg" width="100%" height="210px">
+          <p id="products-name">Amica</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 207</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="amica-products-pic"> <img src="photo/xx4.jpg" width="100%" height="210px">
+          <p id="products-name">Amica</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 325</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="amica-products-pic"> <img src="photo/xx5.jpg" width="100%" height="210px">
+          <p id="products-name">Amica</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 167</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="amica-products-pic"> <img src="photo/xx2.webp" width="100%" height="210px">
+          <p id="products-name">Amica</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 407</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+  
+  
+      </div>
+
+       
+      <div id="lifeboy-products">
+        <h1 id="lifeboy">[  Lifeboy Products  ]</h1>
+          
+       
+        <div id="lifeboy-products-pic"> <img src="photo/x19.jpg" width="100%" height="210px">
+          <p id="products-name">Lifeboy</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 321</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p>
+        </div>
+        <div id="lifeboy-products-pic"> <img src="photo/x21.jpg" width="100%" height="210px">
+          <p id="products-name">Lifeboy</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 121</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p></div>
+        <div id="lifeboy-products-pic"> <img src="photo/x22.jpg" width="100%" height="210px">
+          <p id="products-name">Lifeboy</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 101</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p></div>
+        <div id="lifeboy-products-pic"> <img src="photo/x23.webp" width="100%" height="210px">
+          <p id="products-name">Lifeboy</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 21</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p></div>
+        <div id="lifeboy-products-pic"> <img src="photo/x24.png" width="100%" height="210px">
+          <p id="products-name">Lifeboy</p> 
+          <p id="products-pirce">Price :  <i class="fas fa-rupee-sign"></i> 39</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p></div>
+        <div id="lifeboy-products-pic"> <img src="photo/x26.jpg" width="100%" height="210px">
+          <p id="products-name">Lifeboy</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 89</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p></div>
+        <div id="lifeboy-products-pic"> <img src="photo/x27.avif" width="100%" height="210px">
+          <p id="products-name">Lifeboy</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 46</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p></div>
+        <div id="lifeboy-products-pic"> <img src="photo/x29.jfif" width="100%" height="210px">
+          <p id="products-name">Lifeboy</p> 
+          <p id="products-pirce">Price : <i class="fas fa-rupee-sign"></i> 77</p>
+          <p id="buy">  <i class="fas fa-shopping-cart"></i> Buy Now!</p></div>
+  
+  
+      </div>
+      
+    
+    </section>
+     <!--End section coding-->
+
+     
+      <footer>
+        <div id="contact_us">
+         <h1 id="contact_title">contact_us</h1>
+     
+         <address id="contact_details">Website :Beautyproducts.com</address>
+         <address id="contact_details">Phone Number : +91 7492075290</address>
+         <address id="contact_details">Address : East champaran ,BIHAR</address>
+         <address id="contact_details">Email ID : itsmerambabu.it@gamil.com</address>
+     
+     
+        </div>
+     
+        <div id="developer"><h3>Developed By : Real Rambabu </h3></div>
+     
+     
+        <div id="social_link">
+        <h1 id="contact_title">Follow Us</h1>
+     
+        <a href="https://www.facebook.com/real.rambabu" target="_blank">
+         <i class="fa-brands fa-facebook"></i>
+       </a>
+       <a href="https://x.com/real_rambabau?t=" target="_blank">
+         <i class="fa-brands fa-twitter"></i>
+       </a>
+       <a href="https://www.instagram.com/real__rambabu__/" target="_blank">
+         <i class="fa-brands fa-instagram"></i>
+       </a>
+       <a href="https://www.linkedin.com/in/rambabu-kumar-400b2926b/"target="_blank">
+         <i class="fa-brands fa-linkedin"></i>
+       </a>
+       <a href="https://www.youtube.com/@realrambabu.74920" target="_blank">
+         <i class="fa-brands fa-youtube"></i>
+       </a>
+     </div>
+      
+  </footer>
+     
+</body>
+</html>
